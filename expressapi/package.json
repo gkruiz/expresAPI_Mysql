@@ -1,0 +1,22 @@
+{
+  "name": "mynodejsapp",
+  "version": "1.0.0",
+  "description": "MI aplicacion primera",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error:no serserssss \" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "s"
+  },
+  "keywords": [
+    "d"
+  ],
+  "author": "Kevin 9",
+  "license": "ISC"
+}
